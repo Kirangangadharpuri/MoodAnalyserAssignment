@@ -4,7 +4,7 @@ namespace MoodAnalyserTest
     [TestClass]
     public class UnitTest1
     {
-        //TC1
+        //TC1.1
         [TestMethod]
         public void GivenSadMoodShouldReturnSad()
         {
@@ -22,7 +22,7 @@ namespace MoodAnalyserTest
         }
 
 
-        //TC2
+        //TC1.2 &&&& TC2.1
         [TestMethod]
         public void GivenHappyMoodShouldReturnHappy()
         {
